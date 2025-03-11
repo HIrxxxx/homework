@@ -1,0 +1,30 @@
+.block1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.block2 {
+    font-family: "Roboto Mono", monospace;
+    text-decoration: line-through 2px;
+}
+
+.block3 {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 100px;
+    line-height: 20px;
+    text-align: center;
+}
+.block4 {
+    font-family: "Roboto Slab", serif;
+    word-spacing: 30px;
+    line-height: 35px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+}
+.block5 {
+    font-family: sans-serif;
+    text-decoration: underline 2px;
+    letter-spacing: 5px;
+}
